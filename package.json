@@ -1,0 +1,15 @@
+{
+  "name": "time-launcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Kan-à-Pesh",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^16.0.4"
+  }
+}
