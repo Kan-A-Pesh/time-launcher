@@ -1,14 +1,11 @@
-'use strict';
-
-class App extends React.Component {
-
-    constructor(props) {
-        super(props);
-    }
-  
+class HelloMessage extends React.Component {
     render() {
-        return (
-            <p>Hello world!</p>
-        );
+    return (
+        <div className="app">
+
+        </div>
+    );
     }
   }
+  
+  ReactDOM.render(React.createElement(HelloMessage, { name: "Thierry" }), document.getElementById('root'));
