@@ -1,0 +1,18 @@
+.col-pink {color: var(--pink)}
+.col-magenta {color: var(--magenta)}
+.col-white {color: var(--white)}
+.col-cyan {color: var(--cyan)}
+.col-blue {color: var(--blue)}
+.col-gray {color: var(--gray)}
+.col-dim {color: var(--dim)}
+.col-black {color: var(--black)}
+
+.bg-pink {background-color: var(--pink)}
+.bg-magenta {background-color: var(--magenta)}
+.bg-white {background-color: var(--white)}
+.bg-cyan {background-color: var(--cyan)}
+.bg-blue {background-color: var(--blue)}
+.bg-gray {background-color: var(--gray)}
+.bg-dim {background-color: var(--dim)}
+.bg-black {background-color: var(--black)}
+
