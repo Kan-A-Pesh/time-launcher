@@ -3,19 +3,21 @@
 :root {
     --pink: #bf718b;
     --magenta: #963d5a;
-    --white: #dbe9ee;
+    --light: #dbe9ee;
+    --white: #fcfdfd;
     --cyan: #2589bd;
     --blue: #187795;
-    --gray: #728085;
+    --grey: #728085;
     --dim: #001021;
     --black: #0f1a20;
 
     --rgb-pink: 191, 113, 139;
     --rgb-magenta: 150, 61, 90;
-    --rgb-white: 219, 233, 238;
+    --rgb-light: 219, 233, 238;
+    --rgb-white: 252, 253, 253;
     --rgb-cyan: 37, 137, 189;
     --rgb-blue: 24, 119, 149;
-    --rgb-gray: 114, 128, 133;
+    --rgb-grey: 114, 128, 133;
     --rgb-dim: 0, 16, 33;
     --rgb-black: 15, 26, 32;
 }
